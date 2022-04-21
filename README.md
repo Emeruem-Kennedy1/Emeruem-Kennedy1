@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Kennedy👋
   
 
-### <div align="left">Welcome to my github profile. I'm Kennedy a tech enthusiast and student </div>  
+### <div align="left">A tech enthusiast from Nigeria and Computer Science student at Minerva University</div>  
   
 
 - ✏️ I am currently schooling and working at [Minerva University](https://www.minerva.edu/)  
