@@ -1,11 +1,7 @@
 ### Hi there 👋
-
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
   
 
-### <div align="center">Welcome to my github profile. I'm Kennedy a tech enthusiast and student </div>  
+### <div align="left">Welcome to my github profile. I'm Kennedy a tech enthusiast and student </div>  
   
 
 - ✏️ I am currently schooling and working at [Minerva University](https://www.minerva.edu/)  
