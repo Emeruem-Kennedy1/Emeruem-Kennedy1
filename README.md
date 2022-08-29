@@ -4,13 +4,13 @@
 ### <div align="left">A tech enthusiast from Nigeria and Computer Science student at Minerva University</div>  
   
 
-- ✏️ I am currently schooling and working at [Minerva University](https://www.minerva.edu/)  
+- ✏️ I am currently schooling at [Minerva University](https://www.minerva.edu/)  
   
 
 - 🔭 I’m currently working on improving my skills in frontend web development and mobile development  
   
 
-- 🌱 I’m currently learning Swift and Advanced Flutter development  
+- 🌱 I’m currently learning IOS development  
   
 
 - ⚡ Fun fact: I can type with my eyes closed  
